@@ -41,7 +41,7 @@ Go back to your REMIX IDE tab then expand the smart contract under the Deployed 
 
 ![7](https://user-images.githubusercontent.com/41318044/221354253-d651e5e0-8f49-4be4-a5d0-98dcfb08f463.png)
 
-Copy the transaction hash and check it on on [Mumbai Polygonscan](https://mumbai.polygonscan.com/). It will look like this🔽
+Copy the transaction hash and check it on [Mumbai Polygonscan](https://mumbai.polygonscan.com/). It will look like this🔽
 
 ![8](https://user-images.githubusercontent.com/41318044/221354364-bb219ed0-1a39-4f38-80df-fa80d2a8581f.png)
 
